@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-## New Additions
+## Contents
 
-This is a second line in this ReadMe file.
-
-# Addition 3
-
-My Third addition
+index.html
